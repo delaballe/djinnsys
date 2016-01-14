@@ -1,0 +1,22 @@
+{
+  "name": "djinnsys",
+  "version": "1.0.0",
+  "description": "Djinnsys is an infrastructure management system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "webpack": "^1.12.11"
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "express-pouchdb": "^1.0.1",
+    "http-proxy": "^1.12.0",
+    "node-http-proxy": "^0.2.3",
+    "pouchdb": "^5.2.0"
+  }
+}
